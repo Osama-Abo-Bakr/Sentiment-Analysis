@@ -75,6 +75,16 @@ To run the project locally:
 2. Install the required packages using `pip install -r requirements.txt`.
 3. Run the Streamlit app with the command `streamlit run app.py`.
 
+
+'''bash
+!git clone https://github.com/Osama-Abo-Bakr/Sentiment-Analysis
+cd imdb-review-sentiment-analysis
+'''
+'''bash
+streamlit run app.py
+'''
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
