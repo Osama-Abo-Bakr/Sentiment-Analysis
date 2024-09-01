@@ -71,7 +71,7 @@ The best-performing model was deployed using **Streamlit**, a popular Python lib
 
 To run the project locally:
 
-1. !git clone https://github.com/Osama-Abo-Bakr/Sentiment-Analysis
+1. `!git clone https://github.com/Osama-Abo-Bakr/Sentiment-Analysis`
 2. Install the required packages using `pip install -r requirements.txt`.
 3. Run the Streamlit app with the command `streamlit run app.py`.
 
